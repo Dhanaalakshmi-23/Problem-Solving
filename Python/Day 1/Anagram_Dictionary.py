@@ -1,3 +1,11 @@
+#1. Group words that are anagrams.
+# lis = ["eat", "tea", "tan", "ate", "nat", "bat"]
+# output : {
+#  'aet': ['eat', 'tea', 'ate'],
+#  'ant': ['tan', 'nat'],
+#  'abt': ['bat']
+# }
+
 lis = ["eat", "tea", "tan", "ate", "nat", "bat"]
 
 result = {}

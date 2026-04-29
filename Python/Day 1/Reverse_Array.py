@@ -1,3 +1,7 @@
+#5. Reverse an array using two pointers.
+# arr = [1, 2, 3, 4, 5]
+# output : [5, 4, 3, 2, 1]
+
 arr = [1, 2, 3, 4, 5]
 
 left = 0

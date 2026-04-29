@@ -1,3 +1,6 @@
+#4. Remove duplicates from a list while maintaining order.
+# nums = [1,3,1,3,5,2,7,3]
+# output : [1, 3, 5, 2, 7]
 nums = [1,3,1,3,5,2,7,3]
 
 seen = set()

@@ -1,3 +1,7 @@
+#2. Find the maximum sum of a contiguous subarray.
+# nums = [-2, 1, -3, 4, -1, 2, 1, -5, 4]
+# output : 6
+
 nums = [-2, 1, -3, 4, -1, 2, 1, -5, 4]
 
 current_sum = nums[0]

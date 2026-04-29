@@ -1,3 +1,7 @@
+#3. Count how many numbers have even number of digits.
+# nums_input = [1, 22, 3456, 666]
+# output : 2
+
 def findNumbers(nums):
     count = 0
 
